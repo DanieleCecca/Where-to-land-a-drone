@@ -6,6 +6,7 @@ The project is divided into three main parts:
 
 Dataset: This section explores the dataset and describes how it is divided into training and test sets.
 
-Segmentation: This part covers the design, development, and comparison of various state-of-the-art segmentation models.
+Segmentation: This part covers the design, development, and comparison of various state-of-the-art segmentation models.(custom implementation of segformer)
 
 Best Spot Identification: This section details the method used to identify the optimal landing spot and its detection.
+
